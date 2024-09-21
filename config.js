@@ -27,8 +27,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
-global.prems = ['']
+global.mods = ['917439317360'] 
+global.prems = ['917439317360']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -124,12 +124,12 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
+global.botname = 'BEAR-BOT'
+global.princebot = 'BEAR-BOT'
+global.packname = 'Made by 𖥻 𝚩𝚵̸̷𝚫𝐑 ꪜ'
+global.author = 'Dont copy‼️' 
+global.princeig = 'https://www.instagram.com/_.bearxd?igsh=MTBiZHJ0eXNsNGJ6OA==' 
+global.princegp = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
