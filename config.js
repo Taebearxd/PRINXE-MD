@@ -126,9 +126,9 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.botname = 'BEAR-BOT'
 global.princebot = 'BEAR-BOT'
-global.packname = 'Made by 𓆩 𝍤⃞ 𝚫𝐃𝐑𝚰𝚬𝚴 𓆪'
+global.packname = 'Made by ׁ  ְ𝝥꯭ֹ𝝝̸̷ִI𝗥̳֔'
 global.author = 'Dont copy‼️' 
-global.princeig = 'https://www.instagram.com/_.bearxd?igsh=MTBiZHJ0eXNsNGJ6OA==' 
+global.princeig = 'https://www.instagram.com/_.noirxd?igsh=MTBiZHJ0eXNsNGJ6OA==' 
 global.princegp = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
